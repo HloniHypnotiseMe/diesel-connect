@@ -1,0 +1,5 @@
+{
+  "name": "DieselConnect Dispatch Agent",
+  "description": "When order escrow secured, notify supplier via WhatsApp if offline, create GPS link",
+  "nodes": "Trigger: Supabase order status=escrow_secured -> Call Standard Bank verify -> Call whatsapp-notify event=escrow_secured -> Update order gps_tracking_link"
+}

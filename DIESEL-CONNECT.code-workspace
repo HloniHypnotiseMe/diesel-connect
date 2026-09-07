@@ -1,0 +1,12 @@
+{
+  "folders": [
+    { "path": "." },
+    { "path": "./frontend" },
+    { "path": "./backend" },
+    { "path": "./tools/n8n" },
+    { "path": "./agents" }
+  ],
+  "settings": {
+    "editor.formatOnSave": true
+  }
+}
