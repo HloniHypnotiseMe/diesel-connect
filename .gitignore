@@ -1,0 +1,14 @@
+tools/
+cal.com/
+coolify/
+documenso/
+dub/
+excalidraw/
+listmonk/
+n8n/
+plausible/
+pocketbase/
+node_modules/
+frontend/node_modules/
+.env
+infra/.env
